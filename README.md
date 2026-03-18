@@ -92,7 +92,7 @@ I actively create content for IT professionals on:
 ## 🤝 Let's Connect
 
 * 💼 LinkedIn: https://linkedin.com/in/codeforwhat
-* 🌍 Portfolio: grchub.eu
+* 🌍 Portfolio: https://grchub.eu
 * 📫 Email: erdalbirinci@gmail.com
 ---
 
